@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f823db1e-8923-432e-b018-d3f70985489c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Atuotest/src/main/java/com/amis/demo/Basciannotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Atuotest/untitled/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Atuotest/untitled/src/main/java/com/test/testngexdome/ExtentTestNGIReporterListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Atuotest/untitled/src/main/java/com/test/testngexdome/TestMethendDome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Atuotest/untitled/src/main/resources/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../amisbookclound/src/main/resources/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo001/resources/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo001/src/main/java/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo001/src/test/java/TestTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../saas/src/main/java/com/example/demo/service/Impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../saas/src/main/java/com/example/demo/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/untitled.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../maven/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1vyxgeKUwi4VJxq1qCWGNse5KTf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f823db1e-8923-432e-b018-d3f70985489c" name="Default Changelist" comment="" />
+      <created>1627548241298</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627548241298</updated>
+      <workItem from="1627548242706" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+</project>
